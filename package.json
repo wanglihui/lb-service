@@ -1,0 +1,25 @@
+{
+  "name": "lb-service",
+  "version": "1.0.0",
+  "description": "load balance service",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo ok"
+  },
+  "repository": "git+ssh://git@github.com/wanglihui/lb-service.git",
+  "keywords": [
+    "load",
+    "balance",
+    "service"
+  ],
+  "author": "wanglihui.sjz@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanglihui/lb-service/issues"
+  },
+  "homepage": "https://github.com/wanglihui/lb-service#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.18",
+    "typescript": "^3.7.3"
+  }
+}
